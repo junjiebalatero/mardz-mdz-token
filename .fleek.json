@@ -2,8 +2,8 @@
     "build": {
       "image": "node:alpine",
       "command": "npm install && npm run build && npm start",
-      "publicDir": "build",
-      "baseDir": "frontend",
+      "publicDir": "",
+      "baseDir": "",
       "environment": {
         "SOME_ENV": "Build finished!"
       }
