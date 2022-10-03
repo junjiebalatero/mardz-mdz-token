@@ -1,7 +1,7 @@
 {
     "build": {
       "image": "fleek/create-react-app",
-      "command": "yarn && yarn build",
+      "command": "npm install && npm run build",
       "publicDir": "build",
       "baseDir": "",
       "environment": {
