@@ -1,4 +1,6 @@
-mardz-mdz-token - as ethereum erc20 token now live at goerli test network
+MARKS MDZ TOKEN - an ethereum erc20 token now live at goerli test network
+
+------- execute this in your command prompt(windows) or console(linux)
 
 git clone https://github.com/junjiebalatero/mardz-mdz-token.git
 
