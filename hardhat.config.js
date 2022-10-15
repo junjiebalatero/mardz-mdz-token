@@ -8,8 +8,8 @@ require('@nomiclabs/hardhat-ethers')
 
 /** @type import('hardhat/config').HardhatUserConfig */
 
-const API_URL = "https://eth-goerli.g.alchemy.com/v2/";
-const PRIVATE_KEY = "336e3610778729105b91d2d5419c8e68"
+const API_URL = "https://eth-goerli.g.alchemy.com/v2/xFNGEHiLw_pxLfkPEiFbQ5-8PeSKbDO4";
+const PRIVATE_KEY = "ed9ecbb246462ee1a7880279faeb06af336e3610778729105b91d2d5419c8e68"
 const PUBLIC_KEY = "0x36D22f8c3b043C716d903EE767D1337fAEDc3fA8";
 
 module.exports = {
